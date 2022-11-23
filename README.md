@@ -1,6 +1,7 @@
    # Hi 👋 i'm Ranjan kumar from patna, India
-
-<!--
+   
+   ![mern stack devloper](https://user-images.githubusercontent.com/107936455/203620444-64021ffd-b8c4-4219-95d7-8c2a2facfa3d.gif)
+   
 **ranjankumar9/ranjankumar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # Tools and Technical Skills :
