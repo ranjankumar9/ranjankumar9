@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 i'm Ranjan kumar from patna, India
 
 <!--
 **ranjankumar9/ranjankumar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
