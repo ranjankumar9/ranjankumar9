@@ -17,8 +17,7 @@
 
 ### connect with me :
 
-<a href="https://www.linkedin.com/in/ranjan-kumar-a8590a237/"><img src="![174857](https://user-images.githubusercontent.com/107936455/203693083-ee04ce7f-3849-4159-a6e8-6310946bde48.png)
-" /></a>
+
 
 ### Tools and Technical Skills :
 
