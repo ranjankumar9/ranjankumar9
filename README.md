@@ -17,7 +17,7 @@
 
 ### connect with me :
 
-![174857](https://user-images.githubusercontent.com/107936455/203693630-2909d528-e353-4269-8c61-aa8cd51d88ae.png)
+
 
 ### Tools and Technical Skills :
 
