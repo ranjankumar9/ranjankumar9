@@ -21,9 +21,7 @@
 
 ### Tools and Technical Skills :
 
-![html](https://user-images.githubusercontent.com/107936455/203971924-7bc634b7-2c17-4856-9427-24331232b171.png)
-![css](https://user-images.githubusercontent.com/107936455/203971985-bb5a5da7-9067-4dd1-abe8-97a985aebe90.png)
-![react](https://user-images.githubusercontent.com/107936455/203972072-080472c6-8ef5-43bd-b23b-09c6fc2b682a.png)
+
 
 
 
