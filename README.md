@@ -20,7 +20,8 @@
 
 
 ### Tools and Technical Skills :
-https://banner2.cleanpng.com/20180320/rse/kisspng-html-web-design-scalable-vector-graphics-world-wid-html5-icon-hd-5ab0c85c114163.9859552115215350680707.jpg
+
+![kisspng-html-web-design-scalable-vector-graphics-world-wid-html5-icon-hd-5ab0c85c377aa0 0639325615215350682273](https://user-images.githubusercontent.com/107936455/204308162-52afc012-21b0-49b6-84dd-6c4d4e1bedc8.png)
 
 
 
