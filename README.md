@@ -18,7 +18,6 @@
 ### connect with me :
 
 <a href="https://www.linkedin.com/in/ranjan-kumar-a8590a237/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ranjan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ranjan-kumar-a8590a237/"><img align="center" src="https://banner2.cleanpng.com/20180320/rse/kisspng-html-web-design-scalable-vector-graphics-world-wid-html5-icon-hd-5ab0c85c114163.9859552115215350680707.jpg" alt="ranjan" height="30" width="40" /></a>
 
 
 
