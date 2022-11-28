@@ -4,7 +4,7 @@
    
  
    
-   i'm a passionate and dedicated full stack web devloper
+   ## i'm a passionate and dedicated full stack web devloper
    
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Full Stack Web Devlopment         
@@ -20,7 +20,7 @@
 
 
 ### Tools and Technical Skills :
-
+https://banner2.cleanpng.com/20180320/rse/kisspng-html-web-design-scalable-vector-graphics-world-wid-html5-icon-hd-5ab0c85c114163.9859552115215350680707.jpg
 
 
 
