@@ -12,8 +12,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about HTML CSS JavaScript React Redux
 - 📫 How to reach me: ranjankumar91234153@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **hava a look **
 
 ### connect with me :
 
