@@ -38,7 +38,7 @@
 ### My Github Stats
 
 <p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=ranjankumar9" alt="ranjan" /></p> 
-<p><img align="right" whidth="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjankumar9&theme=radical" alt="raj" /></p>
+<p><img align="left" whidth="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjankumar9&theme=radical" alt="raj" /></p>
 <p><img align="center" width="95%" height="150px" margin="auto" style="padding:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjankumar9&" alt="ranjan" /></p> <br>
 
 
