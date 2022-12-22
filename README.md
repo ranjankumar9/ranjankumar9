@@ -6,10 +6,8 @@
    
    ## i'm a passionate and dedicated full stack web devloper
    
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Full Stack Web Devlopment         
-- 👯 I’m looking to collaborate on ...    
-- 🤔 Hava a look at my (https://transcendent-concha-f9c27c.netlify.app/)
+- 🌱 I’m currently learning Full Stack Web Devlopment             
+- 🤔 Hava a look at my (https://ranjankumar9.github.io/)
 - 💬 Ask me about HTML CSS JavaScript React Redux
 - 📫 How to reach me: ranjankumar91234153@gmail.com
 - You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/ranjan-kumar-a8590a237/)
