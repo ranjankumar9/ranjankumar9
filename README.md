@@ -41,7 +41,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjankumar9&theme=github&utcOffset=8">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ranjankumar9&theme=flat&no-frame=false&no-bg=false&margin-w=4 width="100%")
+![](https://github-profile-trophy.vercel.app/?username=ranjankumar9&theme=flat&no-frame=false&no-bg=false&margin-w=4 )
 
 <p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ranjankumar9&theme=github&hide_border=true" /></p>
 
