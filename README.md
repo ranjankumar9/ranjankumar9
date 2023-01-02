@@ -56,6 +56,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ranjankumar9&theme=flat&no-frame=false&no-bg=false&margin-w=4 )
 
+<br/>
+<hr/>
+
+
 <p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ranjankumar9&theme=github&hide_border=true" /></p>
 
 
