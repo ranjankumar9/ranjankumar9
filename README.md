@@ -40,6 +40,9 @@
 <p><img align="center" width="95%" height="150px" margin="auto" style="padding:20px" src="https://streak-stats.demolab.com/?user=ranjankumar9&border_radius=5" alt="ranjan" /></p> <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjankumar9&theme=github&utcOffset=8">
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ranjankumar9&theme=flat&no-frame=false&no-bg=false&margin-w=4)
+
 <p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ranjankumar9&theme=github&hide_border=true" /></p>
 
 
