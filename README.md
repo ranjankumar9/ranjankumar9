@@ -16,7 +16,8 @@
 ### connect with me :
 <a href="https://github.com/ranjankumar9"><img align="center" src="https://i.pinimg.com/736x/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.jpg" alt = "ranjan" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ranjan-kumar-a8590a237/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ranjan" height="30" width="40" /></a>
-
+<br/>
+<hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -38,6 +39,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   
 </div>
+<br/>
+<hr/>
+
 
 ### My Github Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjankumar9&theme=github">
@@ -45,6 +49,9 @@
 <p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjankumar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"alt="raj" /></p>
 <p><img align="center" width="95%" height="150px" margin="auto" style="padding:20px" src="https://streak-stats.demolab.com/?user=ranjankumar9&border_radius=5" alt="ranjan" /></p> <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjankumar9&theme=github&utcOffset=8">
+
+<br/>
+<hr/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ranjankumar9&theme=flat&no-frame=false&no-bg=false&margin-w=4 )
