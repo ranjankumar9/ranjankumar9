@@ -40,5 +40,6 @@
 <p><img align="center" width="95%" height="150px" margin="auto" style="padding:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjankumar9&" alt="ranjan" /></p> <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjankumar9&theme=github&utcOffset=8">
 
+<p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ranjankumar9&theme=github&hide_border=true" /></p>
 
 
