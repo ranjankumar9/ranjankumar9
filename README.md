@@ -42,6 +42,7 @@
 <br/>
 <hr/>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ranjankumar9&label=Profile%20views&color=0e75b6&style=flat" alt="ranjankumar9" /> </p>
 
 ### My Github Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjankumar9&theme=github">
