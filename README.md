@@ -46,7 +46,7 @@
 
 ### My Github Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjankumar9&theme=github">
-<p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=ranjankumar9" alt="ranjan" /></p> 
+<p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjankumar9&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="ranjan" /></p> 
 <p><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjankumar9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"alt="raj" /></p>
 <p><img align="center" width="95%" height="150px" margin="auto" style="padding:20px" src="https://streak-stats.demolab.com/?user=ranjankumar9&border_radius=5" alt="ranjan" /></p> <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjankumar9&theme=github&utcOffset=8">
