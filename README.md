@@ -30,7 +30,7 @@
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://i0.wp.com/www.itseller.cl/wp-content/uploads/2015/05/javascript-logo-png.png?fit=500%2C430&ssl=1" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://i0.wp.com/www.itseller.cl/wp-content/uploads/2015/05/javascript-logo-png.png?fit=500%2C430&ssl=1" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://i0.wp.com/www.itseller.cl/wp-content/uploads/2015/05/javascript-logo-png.png?fit=500%2C430&ssl=1" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 </div>
