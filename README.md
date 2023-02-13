@@ -31,7 +31,8 @@
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://i0.wp.com/www.itseller.cl/wp-content/uploads/2015/05/javascript-logo-png.png?fit=500%2C430&ssl=1" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application.png" title="JavaScript" alt="JavaScript" width="60" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application.png" title="nodejs" alt="nodejs" width="50" height="40"/>&nbsp;
+  <img src="https://www.mementotech.in/assets/images/icons/express.png" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
   
 </div>
 <br/>
