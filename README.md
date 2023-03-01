@@ -4,8 +4,7 @@
    
  
    
-   ## About Me
-  Aspiring full-stack web development professional, adept at user-specific solutions.Collaborative and team supportive person who is proficient in working with cooperative professionals and executing goal- oriented come to gether projects. Desires to seek a position of Software Developer in a company.
+   ## I'm a full stack web developer
   
    
 - 🌱 I’m currently learning Full Stack Web Devlopment             
