@@ -63,7 +63,7 @@
 
  -->
  
- <img src= "https://c4.wallpaperflare.com/wallpaper/676/293/313/programmer-wallpaper-preview.jpg" width="100%" height="350px"  />
+ <img src= "https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif" width="100%" height="350px"  />
 
 <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
 
@@ -72,15 +72,15 @@
 
   - 🌱 I’m currently learning *MERN*
 
-  - 💬 Ask me about *ReactJS, JavaScript , Next Js , HTML ,CSS*
+  - 💬 Ask me about *ReactJS, JavaScript , Node Js, Expressjs, Mongo Db, HTML ,CSS*
 
-  - 📫 How to reach me *jayaramanjanani73@gmail.com*
+  - 📫 How to reach me *ranjankumar91234153@gmail.com*
 
-  - 🌱 check my works at <a href='https://janani1727.github.io/'>My Portfolio</a>                                                        
+  - 🌱 check my works at <a href='https://ranjankumar9.github.io/'>My Portfolio</a>                                                        
  
-  - 💬 contact me  <a href='https://www.linkedin.com/in/janani-jayaraman-412758238/'>LinkedIn</a>                                       
+  - 💬 contact me  <a href='https://www.linkedin.com/in/ranjan-kumar-a8590a237//'>LinkedIn</a>                                       
   
-  - 📫 About Me  <a href='https://drive.google.com/file/d/1DClxcKyEqmZsixEH5RkUihIg6d0AKaLN/view?usp=share_link'>My Resume</a>
+  - 📫 About Me  <a href='https://drive.google.com/file/d/1F7oSf972gUpFOt1lsEcAo68r8ERJkNtX/view?usp=share_link'>My Resume</a>
   
 
 <img src='https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif' width ="100%" />
