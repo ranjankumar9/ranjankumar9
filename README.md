@@ -44,9 +44,9 @@
 ### My Github Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjankumar9&theme=github">
 <p><img align="center" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjankumar9&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="ranjan" /></p> 
-<p><img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=ranjankumar9&theme=react&hide_border=false&include_all_commits=true&count_private=false"alt="raj" /></p>
-<p><img align="center" width="95%" height="150px" margin="auto" style="padding:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjankumar9&theme=react&hide_border=false" alt="ranjan" /></p> <br>
-<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjankumar9&theme=github&utcOffset=8" width:"100%">
+<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=ranjankumar9&theme=react&hide_border=false&include_all_commits=true&count_private=false"alt="raj" /></p>
+<p><img align="center" width="100%" height="150px" margin="auto" style="padding:20px" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjankumar9&theme=react&hide_border=false" alt="ranjan" /></p> <br>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranjankumar9&theme=github&utcOffset=8" width:"100%">
 
 <br/>
 <hr/>
