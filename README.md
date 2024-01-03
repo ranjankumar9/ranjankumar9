@@ -23,18 +23,42 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo-300x240.png" title="BootStrap" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://ionicframework.com/docs/icons/logo-react-icon.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
-<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" /height="40"/>&nbsp; -->
-  <img src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://i0.wp.com/www.itseller.cl/wp-content/uploads/2015/05/javascript-logo-png.png?fit=500%2C430&ssl=1" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://w7.pngwing.com/pngs/1006/374/png-transparent-web-development-node-js-socket-io-javascript-network-socket-modernization-miscellaneous-logo-web-application.png" title="nodejs" alt="nodejs" width="50" height="40"/>&nbsp;
-  <img src="https://www.mementotech.in/assets/images/icons/express.png" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
+ 
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' align='center' alt='typescript' />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+<br/>
+<br/>
+  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' align='center' alt='next' />
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  align="center" alt="react-router" />
   
+</div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+ </div>
+  
+  <div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+<img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+<img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <br/>
+<br/>
+   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+ </div>
 </div>
 <br/>
 <hr/>
