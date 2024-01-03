@@ -1,19 +1,19 @@
  ![68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 
-  # Hi 👋 I'm Ranjan kumar 
+  # Hi 👋 I'm Ranjan Kumar 
    
  
    
-   ## I'm a full stack web developer
+   ## I'm a full-stack web developer
   
    
 🔭 I’m currently Looking jobs Role for Front-End | Backend | MERN .<br>
-<br>🌱 I have hands on experience on MERN Stack.<br>
-<br>📄 Check out my [Resume](https://drive.google.com/file/d/1SZlSUbFUAtfxFC_ITmBsnTj4_znPzEkA/view)<br>
-<br>💻 Know more about me [Portfilio](https://ranjankumar9.github.io/)<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/ranjankumar9?tab=repositories)<br>
-<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js ,MongoDB , Express.js <br>
-<br>📫 How to reach me ghibilamohan@gmail.com<br>
+<br>-🌱 I have hands-on experience on MERN Stack.<br>
+<br>-📄 Check out my [Resume](https://drive.google.com/file/d/1SZlSUbFUAtfxFC_ITmBsnTj4_znPzEkA/view)<br>
+<br>-💻 Know more about me [Portfilio](https://ranjankumar9.github.io/)<br>
+<br>-💻 All of my projects are available at My [Github Repositories](https://github.com/ranjankumar9?tab=repositories)<br>
+<br>-💬 Ask me about HTML, CSS, Sass, TailwindCss, JavaScript, React, Node.js, MongoDB, Express.js <br>
+<br>-📫 How to reach me ghibilamohan@gmail.com<br>
 
 
 ### connect with me :
