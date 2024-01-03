@@ -17,8 +17,11 @@
 
 
 ### connect with me :
-<a href="https://github.com/ranjankumar9"><img align="center" src="https://i.pinimg.com/736x/b1/5e/ed/b15eedbdafbbdbca3249e3942f4faf3b.jpg" alt = "ranjan" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/ranjan-kumar-a8590a237/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ranjan" height="30" width="40" /></a>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ranjan-kumar-a8590a237/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="mailto: ranjankumar91234153@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/ranjankumar9"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 <br/>
 <hr/>
 
