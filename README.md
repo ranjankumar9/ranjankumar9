@@ -58,7 +58,7 @@
 <hr/>
 
 
-<p><img alt="Pallavi Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ranjankumar9&theme=github&hide_border=true" /></p>
+<p><img alt="Ranjan Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ranjankumar9&theme=github&hide_border=true" /></p>
 
 
 
