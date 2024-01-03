@@ -7,11 +7,13 @@
    ## I'm a full stack web developer
   
    
-- 🌱 I’m currently learning Full Stack Web Devlopment             
-- 🤔 Have a look at my (https://ranjankumar9.github.io/)
-- 💬 Ask me about HTML CSS JavaScript React Redux
-- 📫 How to reach me: ranjankumar91234153@gmail.com
-- You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/ranjan-kumar-a8590a237/)
+🔭 I’m currently Looking jobs Role for Front-End | Backend | MERN .<br>
+<br>🌱 I have hands on experience on MERN Stack.<br>
+<br>📄 Check out my [Resume](https://drive.google.com/file/d/1SZlSUbFUAtfxFC_ITmBsnTj4_znPzEkA/view)<br>
+<br>💻 Know more about me [Portfilio](https://ranjankumar9.github.io/)<br>
+<br>💻 All of my projects are available at My [Github Repositories](https://github.com/ranjankumar9?tab=repositories)<br>
+<br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js ,MongoDB , Express.js <br>
+<br>📫 How to reach me ghibilamohan@gmail.com<br>
 
 
 ### connect with me :
