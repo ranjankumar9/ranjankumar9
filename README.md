@@ -9,7 +9,7 @@
    
 🔭 I’m currently Looking jobs Role for Front-End | Backend | MERN .<br>
 <br>-🌱 I have hands-on experience on MERN Stack.<br>
-<br>-📄 Check out my [Resume](https://drive.google.com/file/d/1SZlSUbFUAtfxFC_ITmBsnTj4_znPzEkA/view)<br>
+<br>-📄 Check out my [Resume](https://drive.google.com/file/d/1kHpWM9hZP8TgoHI_T3zk_ZthL6uZ4bd9/view?usp=sharing)<br>
 <br>-💻 Know more about me [Portfilio](https://ranjankumar9.github.io/)<br>
 <br>-💻 All of my projects are available at My [Github Repositories](https://github.com/ranjankumar9?tab=repositories)<br>
 <br>-💬 Ask me about HTML, CSS, Sass, TailwindCss, JavaScript, React, Node.js, MongoDB, Express.js <br>
